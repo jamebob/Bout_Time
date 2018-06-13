@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Event</key>
+		<string>BRITNEY SPEARS - BABY ONE MORE TIME</string>
+		<key>Year</key>
+		<integer>1999</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>BON JOVI - SLIPPERY WHEN WET</string>
+		<key>Year</key>
+		<integer>1986</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Slippery_When_Wet</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>SKRILLEX - BANGARANG</string>
+		<key>Year</key>
+		<integer>2011</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bangarang_(EP)</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>DEADMAU5 - 4x4=12</string>
+		<key>Year</key>
+		<integer>2010</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/4×4%3D12</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>DAFT PUNK - RANDOM ACCESS MEMORIES</string>
+		<key>Year</key>
+		<integer>2008</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Random_Access_Memories</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>GUNS N&apos; ROSES - USE YOUR ILLUSION II</string>
+		<key>Year</key>
+		<integer>1990</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Use_Your_Illusion_II</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>WOODY GUTHRIE - DUST BOWL BALLADS
+</string>
+		<key>Year</key>
+		<integer>1940</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#in-the-wee-small-hours</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>PRINCE - SIGN O&apos; THE TIMES</string>
+		<key>Year</key>
+		<integer>1987</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Sign_o%27_the_Times</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>KYLIE MINOGUE - KYLIE</string>
+		<key>Year</key>
+		<integer>1988</integer>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Kylie_(album)</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>FRANK SINATRA - IN THE WEE SMALL HOURS</string>
+		<key>Year</key>
+		<integer>1955</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#in-the-wee-small-hours</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>RADIOHEAD - IN RAINBOWS
+</string>
+		<key>Year</key>
+		<integer>2007</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#in-rainbows</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>KRAFTWERK - AUTOBAHN</string>
+		<key>Year</key>
+		<integer>1974</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#autobahn</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>MARVIN GAYE - WHAT&apos;S GOING ON</string>
+		<key>Year</key>
+		<integer>1971</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#whats-going-on</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>BOB DYLAN - BRINGING IT ALL BACK HOME
+</string>
+		<key>Year</key>
+		<integer>1965</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#bringing-it-all-back-home</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>RUN-D.M.C. - RUN-D.M.C.
+
+</string>
+		<key>Year</key>
+		<integer>1984</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#run-dmc</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>JAMES BROWN AND THE FAMOUS FLAMES - LIVE AT THE APOLLO</string>
+		<key>Year</key>
+		<integer>1963</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#live-at-the-apollo</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>GRATEFUL DEAD - LIVE/DEAD</string>
+		<key>Year</key>
+		<integer>1969</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#live-dead</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>CAROLE KING - TAPESTRY</string>
+		<key>Year</key>
+		<integer>1971</integer>
+		<key>New item</key>
+		<string></string>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#tapestry</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>MICHAEL JACKSON - THRILLER</string>
+		<key>Year</key>
+		<integer>1983</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#thriller</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>NIRVANA - NEVERMIND</string>
+		<key>Year</key>
+		<integer>1991</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#nevermind</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>KANYE WEST - 808S &amp; HEARTBREAK</string>
+		<key>Year</key>
+		<integer>2008</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#808s-and-heartbreak</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>THE BEATLES - SGT. PEPPER&apos;S LONELY HEARTS CLUB BAND</string>
+		<key>Year</key>
+		<integer>1967</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#sgt-peppers-lonely-hearts-club-band</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>THE BEACH BOYS - PET SOUNDS</string>
+		<key>Year</key>
+		<integer>1966</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#freak-out</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>THE BEATLES - RUBBER SOUL
+</string>
+		<key>Year</key>
+		<integer>1965</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#pet-sounds</string>
+	</dict>
+	<dict>
+		<key>Event</key>
+		<string>WOODY GUTHRIE - DUST BOWL BALLADS
+</string>
+		<key>Year</key>
+		<integer>1940</integer>
+		<key>url</key>
+		<string>https://www.rollingstone.com/most-groundbreaking-albums-of-all-time#in-the-wee-small-hours</string>
+	</dict>
+</array>
+</plist>
