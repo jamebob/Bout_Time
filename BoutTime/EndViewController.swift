@@ -28,9 +28,9 @@ class EndViewController: UIViewController {
     
     @IBAction func platAgain(_ sender: UIButton) {
        
-       // vc.newGame()
       
-       // self.dismiss(animated: true, completion: vc.nextRound)
+      
+      
         performSegue(withIdentifier: "goToMain", sender: self)
     }
     
