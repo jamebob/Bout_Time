@@ -18,6 +18,7 @@
 		7D7B94BF20C947E100B27688 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D7B94BD20C947E100B27688 /* Main.storyboard */; settings = {ASSET_TAGS = (4, ); }; };
 		7D7B94C120C947E100B27688 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D7B94C020C947E100B27688 /* Assets.xcassets */; };
 		7D7B94C420C947E100B27688 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D7B94C220C947E100B27688 /* LaunchScreen.storyboard */; };
+		7DB92BB720D3197D00252C6A /* plistConvert_testdelleteme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB92BB620D3197D00252C6A /* plistConvert_testdelleteme.swift */; };
 		7DC0026120C9DE44009C0BAA /* PlistConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC0026020C9DE44009C0BAA /* PlistConverter.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		7D7B94C020C947E100B27688 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D7B94C320C947E100B27688 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D7B94C520C947E100B27688 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DB92BB620D3197D00252C6A /* plistConvert_testdelleteme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plistConvert_testdelleteme.swift; sourceTree = "<group>"; };
 		7DC0026020C9DE44009C0BAA /* PlistConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlistConverter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,6 +72,7 @@
 			children = (
 				7D44D67F20CA8C5F00C9B85D /* GameController.swift */,
 				7DC0026020C9DE44009C0BAA /* PlistConverter.swift */,
+				7DB92BB620D3197D00252C6A /* plistConvert_testdelleteme.swift */,
 				7D34DB5220C969A8004C5F59 /* EventsController.swift */,
 				7D7B94BB20C947E100B27688 /* ViewController.swift */,
 				7D4824E720CAC7A70034370F /* EndViewController.swift */,
@@ -167,6 +170,7 @@
 				7D4824E820CAC7A70034370F /* EndViewController.swift in Sources */,
 				7D34DB5320C969A8004C5F59 /* EventsController.swift in Sources */,
 				7D44D68020CA8C5F00C9B85D /* GameController.swift in Sources */,
+				7DB92BB720D3197D00252C6A /* plistConvert_testdelleteme.swift in Sources */,
 				7D7B94BC20C947E100B27688 /* ViewController.swift in Sources */,
 				7D7B94BA20C947E100B27688 /* AppDelegate.swift in Sources */,
 				7DC0026120C9DE44009C0BAA /* PlistConverter.swift in Sources */,

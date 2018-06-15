@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var timerLabel: UILabel!
     @IBOutlet weak var timerText: UILabel!
     @IBOutlet weak var tapEventsMessage: UILabel!
+    @IBOutlet weak var shakeTofinish: UILabel!
     
     let eventsCollection = EventCollection()
     
@@ -38,7 +39,6 @@ class ViewController: UIViewController {
     var isTimerRunning = false
     var currentAnswerCorrect = false
     
-
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -168,7 +168,7 @@ class ViewController: UIViewController {
         resetTimer()
         removeTimer()
         displayNextRoundButton()
-        
+        shakeTofinish.isHidden = true
     }
   
     func displayNextRoundButton() {
@@ -202,6 +202,7 @@ class ViewController: UIViewController {
         btn3Up.isEnabled = false
         btn3Down.isEnabled = false
         btn4Up.isEnabled = false
+       
     }
     
     func enableButtons() {
@@ -216,10 +217,12 @@ class ViewController: UIViewController {
         btn3Up.isEnabled = true
         btn3Down.isEnabled = true
         btn4Up.isEnabled = true
+       
         
     }
  
     func nextRound() {
+        shakeTofinish.isHidden = false
         roundisActive = true
         enableButtons()
         tapEventsMessage.isHidden = true

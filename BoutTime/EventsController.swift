@@ -50,8 +50,7 @@ class EventCollection{
             currentRoundEvents.append(eventsArray[eventToShuffle])
             eventsArray.remove(at: eventToShuffle)
         }
-        print("callevents - events array is now....\(eventsArray.count)")
-        print ("callevents - current round events is now ....\(currentRoundEvents.count)")
+       
    
     }
     
@@ -61,8 +60,7 @@ class EventCollection{
                 eventsArray.append(currentRoundEvents[i])
             }
         currentRoundEvents = []
-        print("reset events - events array is now....\(eventsArray.count)")
-        print ("reset events - current round events is now ....\(currentRoundEvents.count)")
+      
         
     }
     
