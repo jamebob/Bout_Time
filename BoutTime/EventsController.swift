@@ -23,14 +23,16 @@ class EventCollection{
 
     init() {
     do {
-    let eventsList = try PlistConverter.array(fromFile: "WorldEvents", ofType: "plist")
-    eventsArray = try EventsUnarchiver.EventsCollection(fromArray: eventsList)
-    }
+        let eventsList = try PlistConverter.array(fromFile: "WorldEvents", ofType: "plist")
+        eventsArray = try EventsUnarchiver.EventsCollection(fromArray: eventsList)
+        }
     catch PlistErrors.invalidResource {
-    print ("Failed loading Events \(PlistErrors.invalidResource.rawValue)")
-    } catch PlistErrors.conversionFailure {
-    print ("Plist \(PlistErrors.conversionFailure.rawValue)")
-    } catch let error{
+        print ("Failed loading Events \(PlistErrors.invalidResource.rawValue)")
+        }
+    catch PlistErrors.conversionFailure {
+        print ("Plist \(PlistErrors.conversionFailure.rawValue)")
+        }
+    catch let error{
         print(error)
         fatalError("\(error)")
         }
